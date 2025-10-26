@@ -5,6 +5,9 @@ The design is compatible with **ASIC/FPGA** simulation and demonstrates the **Bi
 
 ---
 
+## Structure
+![Structure](bitcoin_mining_simulate/structure.png)
+
 ## Features
 
 - **Fully verified SHA-256 algorithm**  
